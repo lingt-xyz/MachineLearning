@@ -1,3 +1,7 @@
+---
+description: 'Notes from "Complete Machine Learning and Data Science: Zero to Mastery"'
+---
+
 # 6 Step Machine Learning Framework
 
 ## 1. Problem Definition

@@ -5,6 +5,7 @@
 ## Rush Course
 
 * [Terminology](rush-course/terminology.md)
+* [6 Step Machine Learning Framework](rush-course/6-step-machine-learning-framework.md)
 * [Linear Regression](rush-course/linear-regression.md)
 * [Training and Loss](rush-course/training-and-loss.md)
 * [Reducing Loss](rush-course/reducing-loss.md)
@@ -14,8 +15,4 @@
 ## CS229
 
 * [Lecture 1](lecture-1.md)
-
-## Complete Machine Learning and Data Science: Zero to Mastery
-
-* [6 Step Machine Learning Framework](complete-machine-learning-and-data-science-zero-to-mastery/6-step-machine-learning-framework.md)
 
